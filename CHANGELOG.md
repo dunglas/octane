@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.6.0...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.6.1...2.x)
+
+## [v2.6.1](https://github.com/laravel/octane/compare/v2.6.0...v2.6.1) - 2025-01-28
+
+* Bump `inertiajs/inertia-laravel` dependencies by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/octane/pull/988
 
 ## [v2.6.0](https://github.com/laravel/octane/compare/v2.5.9...v2.6.0) - 2024-11-25
 
